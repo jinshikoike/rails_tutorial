@@ -1,0 +1,15 @@
+current directory: /Users/koikeshinji/Desktop/tech/programming/Ruby/rails/test1/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+/Users/koikeshinji/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20160901-43335-10yyt5k.rb extconf.rb
+creating Makefile
+
+current directory: /Users/koikeshinji/Desktop/tech/programming/Ruby/rails/test1/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/koikeshinji/Desktop/tech/programming/Ruby/rails/test1/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/koikeshinji/Desktop/tech/programming/Ruby/rails/test1/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20160901-43335-8osf5
